@@ -30,7 +30,7 @@ export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-center p-24">
       <div className="z-10 w-full max-w-md p-10 bg-white rounded-xl shadow-md">
-        <h1 className="text-2xl font-bold text-center mb-8">Simple Click Logger</h1>
+        <h1 className="text-2xl font-bold text-center mb-8">Simple Click Logger asdddd</h1>
         
         <button
           onClick={handleClick}
